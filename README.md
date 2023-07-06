@@ -1,2 +1,2 @@
 # cimidi-tools
-Kali Linux Scripts
+Sizlere sıfırdan hazırlayacağım kali linux scriptleri yakında paylaşacağım (: 
